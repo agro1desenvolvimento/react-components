@@ -6,6 +6,10 @@ Biblioteca de componentes para REACT.
 yarn add @agro1/components
 ```
 
+## Biblioteca utilitária de CSS (Grid, Flexbox...)
+
+[PrimeFlex](https://primefaces.org/primereact/showcase/#/primeflex)
+
 ## Componentes
 
 **Atenção!!!** Nunca importar os componentes diretamente do  `primereact`, sempre importar de `@agro1/react-components`.
