@@ -3,7 +3,7 @@
 Biblioteca de componentes para REACT.
 
 ```
-yarn add @agro1/components
+yarn add @agro1desenvolvimento/components --registry=https://npm.pkg.github.com
 ```
 
 ## Biblioteca utilitária de CSS (Grid, Flexbox...)
@@ -109,7 +109,7 @@ export default App;
 No diretório `example-app` existe uma aplicação REACT "fake", só deve ser utilizada para algum teste.
 
 ## Publicar
-`yarn publish`
+Deve ser criado um novo `release` no GitHub, tem uma action para fazer a publicação automaticamente.
 
 ## TODO
 - [ ] Adicionar configuração para testes
