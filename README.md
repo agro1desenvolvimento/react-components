@@ -1,9 +1,9 @@
 # @agro1/react-components
 
-Biblioteca de componentes para REACT.
+Biblioteca de componentes para REACT. Para a instalação é necessário adicionar o arquivo `.npmrc` de acordo com a documentação do pulpo: https://app.pulpo.work/MaZnZKxL6NugQcGnT/documents/247cf6277fe543f5a540d737102b0e82/utilizar-github-packages-privados
 
 ```
-yarn add @agro1desenvolvimento/components --registry=https://npm.pkg.github.com
+yarn add @agro1desenvolvimento/react-components
 ```
 
 ## Biblioteca utilitária de CSS (Grid, Flexbox...)
