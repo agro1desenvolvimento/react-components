@@ -30,8 +30,9 @@
     "prepublish": "tsc",
     "build": "tsc",
     "clean": "rm -rf dist/",
-    "lint": "prettier --check \"src/**/*.ts\"",
-    "lint/autocorrect": "prettier --write \"src/**/*.ts\""
+    "lint": "yarn typescheck && prettier --check \"src/**/*.ts\"",
+    "lint/autocorrect": "prettier --write \"src/**/*.ts\"",
+    "typescheck": "tsc --noEmit"
   },
   "publishConfig": {
     "access": "public"
