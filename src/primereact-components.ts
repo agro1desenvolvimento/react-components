@@ -76,3 +76,17 @@ export { TreeTable } from 'primereact/treetable'
 export { TriStateCheckbox } from 'primereact/tristatecheckbox'
 export { Badge } from 'primereact/badge'
 export { Tag } from 'primereact/tag'
+export { ConfirmDialog } from 'primereact/confirmdialog'
+export { ConfirmPopup } from 'primereact/confirmpopup'
+export { CascadeSelect } from 'primereact/cascadeselect'
+export { Knob } from 'primereact/knob'
+export { Divider } from 'primereact/divider'
+export { Splitter, SplitterPanel } from 'primereact/splitter'
+export { Avatar } from 'primereact/avatar';
+export { AvatarGroup } from 'primereact/avatargroup';
+export { ScrollTop } from 'primereact/scrolltop';
+export { Skeleton } from 'primereact/skeleton';
+
+// Primereact API
+export { locale, addLocale, updateLocaleOption, updateLocaleOptions, localeOption, localeOptions } from 'primereact/api';
+
