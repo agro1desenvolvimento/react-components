@@ -1,0 +1,62 @@
+import { locale, addLocale } from 'primereact/api'
+
+export default () => {
+  addLocale('pt-BR', {
+    'pt-BR': {
+      accept: 'Sim',
+      reject: 'Não',
+      choose: 'Escolher',
+      upload: 'Upload',
+      cancel: 'Cancelar',
+      dayNames: [
+        'Domingo',
+        'Segunda',
+        'Terça',
+        'Quarta',
+        'Quinta',
+        'Sexta',
+        'Sábado',
+      ],
+      dayNamesShort: ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb'],
+      dayNamesMin: ['Do', 'Se', 'Te', 'Qu', 'Qu', 'Se', 'Sá'],
+      monthNames: [
+        'Janeiro',
+        'Fevereiro',
+        'Março',
+        'Abril',
+        'Maio',
+        'Junho',
+        'Julho',
+        'Agosto',
+        'Setembro',
+        'Outubro',
+        'Novembro',
+        'Dezembro',
+      ],
+      monthNamesShort: [
+        'Jan',
+        'Fev',
+        'Mar',
+        'Abr',
+        'Mai',
+        'Jun',
+        'Jul',
+        'Ago',
+        'Set',
+        'Out',
+        'Nov',
+        'Dez',
+      ],
+      today: 'Hoje',
+      clear: 'Limpar',
+      weekHeader: 'Wk',
+      firstDayOfWeek: 0,
+      dateFormat: 'dd/mm/yy',
+      weak: 'Semana',
+      medium: 'Medium',
+      strong: 'Forte',
+      passwordPrompt: 'Digite a senha',
+    },
+  })
+  locale('pt-BR')
+}

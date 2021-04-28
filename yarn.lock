@@ -80,9 +80,9 @@ primeflex@^2.0.0:
   integrity sha512-t6AG3iRI1rh04uI+9nC4JSlbKfA8PnpRDFtjyqi3rDSLRgdfOuhIiunJbjVQ4alnnCfuQAAbVyde1AKN9QxT/w==
 
 primereact@^6.0.2:
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/primereact/-/primereact-6.2.1.tgz#b83f561a936527d1a2750f3b8b6b47b5b2b67f9d"
-  integrity sha512-FLCj+jJGSCD/V+jkkQIW7h/vEll31FfOOe1yrWKqa6PGxqkWMm2Q8f1XZTqR2ISQAz5RCUKcyhqTyPSF1X3yrA==
+  version "6.3.1"
+  resolved "https://registry.yarnpkg.com/primereact/-/primereact-6.3.1.tgz#729eec9db1a828802218ed72bd96d092d202a691"
+  integrity sha512-Y5BbZfY2Tm2g+eBtpTd0PwvQJremaJvErybAT7hDJUIG9yBzlqwHLIxZllFYlXrv+m8mE8A2V6PVBxm4A0Jpyg==
 
 prop-types@^15.6.2:
   version "15.7.2"

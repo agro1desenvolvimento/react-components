@@ -2,6 +2,9 @@ import 'primereact/resources/themes/mdc-light-indigo/theme.css'
 import 'primereact/resources/primereact.min.css'
 import 'primeflex/primeflex.css'
 
+import configureLocale from './locale'
+configureLocale()
+
 export { Accordion } from 'primereact/accordion'
 export { AutoComplete } from 'primereact/autocomplete'
 export { BreadCrumb } from 'primereact/breadcrumb'
