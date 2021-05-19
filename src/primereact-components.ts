@@ -72,7 +72,6 @@ export * from 'primereact/tabview'
 export * from 'primereact/tieredmenu'
 // export { Timeline } from 'primereact/timeline';
 export * from 'primereact/toast'
-export * from 'primereact/toast'
 export * from 'primereact/togglebutton'
 export * from 'primereact/toolbar'
 export * from 'primereact/tooltip'
