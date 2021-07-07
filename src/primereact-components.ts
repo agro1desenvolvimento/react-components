@@ -44,7 +44,7 @@ export {
   MenuItem,
   MenuItemCommandParams,
   MenuItemOptions,
-} from 'primereact/menuitem'
+} from 'primereact/components/menuitem/MenuItem'
 export * from 'primereact/menubar'
 export * from 'primereact/message'
 export * from 'primereact/messages'
