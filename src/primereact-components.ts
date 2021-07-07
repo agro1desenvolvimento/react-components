@@ -66,7 +66,7 @@ export * from 'primereact/row'
 export * from 'primereact/scrollpanel'
 export * from 'primereact/selectbutton'
 export * from 'primereact/sidebar'
-export * from 'primereact/slidemenu'
+// export * from 'primereact/slidemenu' aguardando FIX do json do component
 export * from 'primereact/slider'
 export * from 'primereact/splitbutton'
 export * from 'primereact/steps'
