@@ -79,10 +79,10 @@ primeflex@^2.0.0:
   resolved "https://registry.yarnpkg.com/primeflex/-/primeflex-2.0.0.tgz#b4152a97a455bbfad33503b6e10fe73d1f9e2228"
   integrity sha512-t6AG3iRI1rh04uI+9nC4JSlbKfA8PnpRDFtjyqi3rDSLRgdfOuhIiunJbjVQ4alnnCfuQAAbVyde1AKN9QxT/w==
 
-primereact@^6.4.1:
-  version "6.4.1"
-  resolved "https://registry.yarnpkg.com/primereact/-/primereact-6.4.1.tgz#cc07ce196cf671d78a2ef419a1f6ce2934c715e6"
-  integrity sha512-HK6GuHCHiwXxBMsob9miTQ799XdwYfBrH7zsSAvh5UhqDAYusNqpgHPz1RGNjyxNEq5XYiDpx10WYjy2P0u9iw==
+primereact@^6.5.0-rc.2:
+  version "6.5.0-rc.2"
+  resolved "https://registry.yarnpkg.com/primereact/-/primereact-6.5.0-rc.2.tgz#b28c9f523609fa6daaeee35a1bd38bbcf25c051f"
+  integrity sha512-+DV0x88iqrtv0P4kxH4zZoOgJ8zPNrPUj+ZTXln/Zblboita3EtGHU/ToroJrQKE/lz+ht132OjMGv7XZ4+1+g==
 
 prop-types@^15.6.2:
   version "15.7.2"
