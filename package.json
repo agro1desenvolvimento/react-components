@@ -1,8 +1,8 @@
 {
   "name": "@agro1desenvolvimento/react-components",
   "version": "1.6.0",
-  "main": "dist/index",
-  "types": "dist/index",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^14.14.10",
