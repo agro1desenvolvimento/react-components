@@ -83,9 +83,9 @@ export * from 'primereact/treetable'
 export * from 'primereact/tristatecheckbox'
 export * from 'primereact/badge'
 export * from 'primereact/tag'
-// export { ConfirmDialog } from 'primereact/confirmdialog' Aguardando PR https://github.com/primefaces/primereact/pull/1909/files
+export * from 'primereact/confirmdialog'
 export * from 'primereact/confirmpopup'
-// export { CascadeSelect } from 'primereact/cascadeselect' Aguardando PR https://github.com/primefaces/primereact/pull/1909/files
+export * from 'primereact/cascadeselect'
 export * from 'primereact/knob'
 export * from 'primereact/divider'
 export * from 'primereact/splitter'
