@@ -1,6 +1,6 @@
 {
   "name": "@agro1desenvolvimento/react-components",
-  "version": "1.6.2",
+  "version": "1.6.3-beta",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "MIT",
@@ -14,16 +14,12 @@
     "typescript": "^4.1.2"
   },
   "peerDependencies": {
-    "classnames": ">= 2.2.6",
-    "primeflex": ">= 2.0.0",
-    "primereact": ">= 6.5.0-rc.2",
-    "react": ">= 17",
-    "react-transition-group": ">= 4.4.1"
+    "react": ">= 17"
   },
   "dependencies": {
     "classnames": "^2.2.6",
     "primeflex": "^2.0.0",
-    "primereact": "^6.5.0-rc.2",
+    "primereact": "https://github.com/GregoryEsberci/primereact.git#build",
     "react-transition-group": "^4.4.1"
   },
   "scripts": {
