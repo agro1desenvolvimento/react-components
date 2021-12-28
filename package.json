@@ -18,8 +18,9 @@
   },
   "dependencies": {
     "classnames": "^2.2.6",
-    "primeflex": "^2.0.0",
-    "primereact": "https://github.com/GregoryEsberci/primereact.git#build",
+    "primeflex": "^3.1.2",
+    "primeicons": "^5.0.0",
+    "primereact": "^7.1.0",
     "react-transition-group": "^4.4.1"
   },
   "scripts": {

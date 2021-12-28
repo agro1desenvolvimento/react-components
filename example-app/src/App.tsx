@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 
-import { Button, Card } from '@agro1/react-components';
+import { Button, Card } from '@agro1desenvolvimento/react-components';
 
 function App() {
   return (
