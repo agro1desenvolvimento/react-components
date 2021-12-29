@@ -15,7 +15,7 @@
     "react-scripts": "4.0.1",
     "typescript": "^4.0.3",
     "web-vitals": "^0.2.4",
-    "@agro1/react-components": "link:.."
+    "@agro1desenvolvimento/react-components": "link:.."
   },
   "scripts": {
     "start": "react-scripts start",
